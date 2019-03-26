@@ -1,0 +1,6 @@
+Para funcionar correto
+
+alterar endereço do .htaccess
+alterar dados do banco de dados no config e BASE_URL
+
+alterar endereço das requisições AJAX no arquivo Script.js
